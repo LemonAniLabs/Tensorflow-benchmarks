@@ -4,7 +4,7 @@ import numpy as np
 import os,sys
 import tensorflow as tf
 import time
-sys.path.append('/home/lennon.lin/Repository/github/tensorflow-Model/slim')
+#sys.path.append('/home/lennon.lin/Repository/github/tensorflow-Model/slim')
 try:
     import urllib2
 except ImportError:
