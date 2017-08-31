@@ -13,10 +13,10 @@ This repository contains machine learning models implemented in TensorFlow. It w
     $> git clone https://github.com/LemonAniLabs/Tensorflow-benchmarks.git
     ```
 2. Download the pre-train weight from tf-slim
-```shell
+    ```shell
     # Download resnet_v1_50 pre-train weight
     $> wget http://download.tensorflow.org/models/resnet_v1_50_2016_08_28.tar.gz
-```
+    ```
 ## Run the benchmark
 ```shell    
     $> python resnet_v1_50_test.py
