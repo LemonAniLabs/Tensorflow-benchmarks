@@ -24,7 +24,7 @@ This repository contains machine learning models implemented in TensorFlow. It w
     # That's it
 ```
 
-# Optional arguments:
+## Optional arguments:
 ```shell
   -h, --help            show this help message and exit
   -t TIMES, --TIMES TIMES
