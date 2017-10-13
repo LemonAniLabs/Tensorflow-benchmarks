@@ -6,6 +6,7 @@ This repository contains machine learning models implemented in TensorFlow. It w
 
 ## Requirement
 - Tensorflow
+- opencv
 
 ## Installation
 1. Clone this repository
