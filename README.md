@@ -23,6 +23,14 @@ This repository contains machine learning models implemented in TensorFlow. It w
     $> python resnet_v1_50_test.py
     # That's it
 ```
+
+# Optional arguments:
+```shell
+  -h, --help            show this help message and exit
+  -t TIMES, --TIMES TIMES
+                        Times of iteration
+  -o, --OFFICIAL        Use Slim.Net from tensorflow contrib
+```
 ## Features
 - [ ] Training a model from scratch
 - [ ] Fine-tuning a model from an existing checkpoint
